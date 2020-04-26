@@ -342,7 +342,7 @@
 	  "ball_blue": "",
 	  "gelatinous_green": "",
 	  "crash_site_bg": "https://cdn.discordapp.com/attachments/702670160284221562/704096037983485992/bg2.png",
-	  "crash_site_fg": "https://cdn.discordapp.com/attachments/702749683541606431/703029956204036096/fg2.png",
+	  "crash_site_fg": "https://cdn.discordapp.com/attachments/702670160284221562/704103258557513843/fg2_1.png",
 	  "crash_site_sprites": "https://canary.discordapp.com/channels/567030108003631104/567030108003631108/703002793866166384",
 	  "crash_site_nm": "",
 	  "crash_site_map": "",
@@ -367,5 +367,5 @@
 	  "player_8": "",
 	  "player_9": "",
 	  "player_10": "",
-	  "packVersion": "0.1"
+	  "packVersion": "0.2"
 	}
