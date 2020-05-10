@@ -3,7 +3,7 @@
 	  "name": "EPF Secret HQ",
 	  "author": "Zizzle",
 	  "date": 1587679351224,
-	  "description": "Tavern Becomes EPF Secret room from OPERATION BLACKOUT",
+	  "description": "Cellar Becomes EPF Secret room from OPERATION BLACKOUT",
 	  "clientscript": "",
 	  "index": "",
 	  "favicon": "",
@@ -347,12 +347,12 @@
 	  "crash_site_nm": "",
 	  "crash_site_map": "",
 	  "crash_site_server_map": "",
-	  "cellar_bg": "",
-	  "cellar_fg": "",
+	  "cellar_bg": "https://cdn.discordapp.com/attachments/702749683541606431/708815488846659644/background.png",
+	  "cellar_fg": "https://cdn.discordapp.com/attachments/702749683541606431/708815499508580417/foreground.png",
 	  "cellar_nm": "",
 	  "cellar_server_map": "",
-	  "tavern_bg": "https://cdn.discordapp.com/attachments/702763811375022091/708798420126662776/resize-15890606441780357289OperationBlackoutSecretHQ6.png",
-	  "tavern_fg": "https://cdn.discordapp.com/attachments/703020764353527918/705870247298859059/none.png",
+	  "tavern_bg": "",
+	  "tavern_fg": "",
 	  "tavern_nm": "",
 	  "tavern_server_map": "",
 	  "critterball_sprites_512x512": "",
@@ -367,5 +367,5 @@
 	  "player_8": "",
 	  "player_9": "",
 	  "player_10": "",
-	  "packVersion": "1.0"
+	  "packVersion": "2.0"
 	}
