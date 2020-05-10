@@ -3,7 +3,7 @@
   "name": "EPF Secret HQ",
   "author": "Zizzle",
   "date": 1587679351224,
-  "description": "Cellar Becomes EPF Secret room from OPERATION BLACKOUT",
+  "description": "Tavern Becomes EPF Secret room from OPERATION BLACKOUT",
   "clientscript": "",
   "index": "",
   "favicon": "",
@@ -371,5 +371,5 @@
   "player_9": "",
   "player_10": "",
   "date": 1589145415315,
-  "packVersion": "1.0"
+  "packVersion": "0.1"
 }
