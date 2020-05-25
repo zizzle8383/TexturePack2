@@ -18,7 +18,7 @@
   "mascots_manifest": "",
   "effects_manifest": "",
   "items_manifest": "",
-  "rooms_manifest": "",
+  "rooms_manifest": "https://raw.githubusercontent.com/zizzle8383/tavern-music/master/rooms.json",
   "hamster": "",
   "raccoon": "",
   "beaver": "",
