@@ -126,7 +126,7 @@
         }
       }
     ],
-    "spriteSheet": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/sprites.json",
+    "spriteSheet": "",
     "background": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/background.png",
     "foreground": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/foreground.png",
     "navMesh": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/navmesh.png",
