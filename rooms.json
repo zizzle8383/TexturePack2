@@ -105,6 +105,7 @@
     "navMesh": "/media/rooms/cellar/1882ac56169e927d393618c9e6dfedc0/navmesh.png",
     "map": "/media/rooms/cellar/1882ac56169e927d393618c9e6dfedc0/map.png",
     "layout": "/media/rooms/cellar/1882ac56169e927d393618c9e6dfedc0/layout.json"
+	  "music": "https://cdn.jsdelivr.net/gh/zizzle8383/TexturePack2/music3.mp3"
   },
   {
     "roomId": "tavern",
