@@ -76,6 +76,7 @@
     "navMesh": "/media/rooms/crash_site/38687f4eeae551d20ad2fb689a4fc389/navmesh.png",
     "map": "/media/rooms/crash_site/38687f4eeae551d20ad2fb689a4fc389/map.png",
     "layout": "/media/rooms/crash_site/38687f4eeae551d20ad2fb689a4fc389/layout.json"
+	  "music": "https://cdn.jsdelivr.net/gh/zizzle8383/TexturePack2/music2.mp3"
   },
   {
     "roomId": "cellar",
